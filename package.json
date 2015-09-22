@@ -1,0 +1,26 @@
+{
+  "name": "contactlistapp",
+  "version": "1.0.0",
+  "description": "<h2>MEAN Stack RESTful API Tutorial - Contact List App</h2>",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.10.2",
+    "express": "^4.11.1",
+    "mongojs": "^0.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alireza-saberi/contactlist-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alireza-saberi/contactlist-app/issues/"
+  },
+  "homepage": "https://github.com/alireza-saberi/contactlist-app"
+}
